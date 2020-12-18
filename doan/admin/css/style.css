@@ -1,0 +1,10 @@
+
+.box__menu{ background-color:#E73333; height: 3rem; display: flex; flex-direction: row;align-items: center;}
+.box__menu .list__menu
+{
+	list-style: none;
+}
+.box__menu .list__menu li{ display: inline-block; margin-left:2rem  }
+.box__menu .list__menu li a{color:white;text-decoration: none}
+.box__menu .list__menu li a:hover {color:lightblue;}
+.btnThem{ background-color: lightblue; margin-left: 40%;color:#498727;border:0; font-size: 20px}
